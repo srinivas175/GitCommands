@@ -1,2 +1,2 @@
 # GitCommands
-All gir commands in one cheatsheet
+All git commands in one cheatsheet
